@@ -2,7 +2,7 @@
 # Hi, I'm Axcel! 👋
 
 
-## 🚀 About Me
+<!-- ## 🚀 About Me -->
 I'm a Mechatronic Student at ESPOL and Full Stack Developer.
 
 - 🧠 I am currently learning about DS, ML and IA.
